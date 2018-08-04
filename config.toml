@@ -57,7 +57,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = Peter Jacobs"
+  name = "Peter Jacobs"
   role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
